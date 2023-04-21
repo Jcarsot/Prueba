@@ -1,0 +1,6 @@
+# Ignorando carpetas
+/.idea
+
+# Ignorando ficheros
+*.xml
+*.iml
